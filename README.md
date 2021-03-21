@@ -9,7 +9,7 @@ My name is Kane. On the internet also known als **Kanus** or **SmikkelBeertjes**
   
 - ⚡ Fun fact: **I'm already coding for 7 years!**
 
-![Kane's github stats](https://github-readme-stats.vercel.app/api?username=smikkelbeertjez)
+![Kane's github stats](https://github-readme-stats.vercel.app/api?username=kanetjuh)
 
 ### Projects
 - [Website](https://kanus.me)
