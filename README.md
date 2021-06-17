@@ -4,7 +4,7 @@ My name is Kane. On the internet also known als **Kanus** or **SmikkelBeertjes**
 - 🌱 I’m currently learning **a lot of languages**
 - 📫 How to reach me:
   - **Mail: officieelkane@gmail.com**
-  - **Discord: Kane.#1069**
+  - **Discord: Kane.#0001**
   
 - ⚡ Fun fact: **I'm already coding for 7 years!**
 
