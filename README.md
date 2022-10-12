@@ -18,7 +18,7 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
     </h1>
 </div>
-<h4> 📙 About Me : </h4><br>
+<h4> 📙 About Me : </h4>
 I am a Developer and Expert IT (Systems & Securtiy & Devices) from The Netherlands.<br>
 <h4> :fire: My Stats :</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanetjuh&hide=TeX&layout=compact&theme=radical" alt="LinkedIn Badge"/>
