@@ -12,7 +12,7 @@
             <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white">
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=kanetjuhz&style=flat-square&color=blue" alt="" />
+    <img src="https://komarev.com/ghpvc/?username=kanetjuh&style=flat-square&color=blue" alt="" />
     <h1>
         Hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
