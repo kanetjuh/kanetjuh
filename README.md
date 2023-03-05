@@ -1,13 +1,5 @@
 <div id="header" align="center">
     <div id="badges">
-        <a href="https://www.linkedin.com/in/klvoets/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="LinkedIn Badge" />
-        </a>
-        <a href="https://instagram.com/klvoets2006">
-            <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"
-                alt="Twitter Badge" />
-        </a>
         <a href="https://discord.com/channels/@me/806887530364272640">
             <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white">
         </a>
